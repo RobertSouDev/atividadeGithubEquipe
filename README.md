@@ -59,8 +59,7 @@ Este documento descreve como configurar e rodar o projeto React utilizando o Vit
    ```
 
 
-markdown
-Copiar código
+
 
 ### 8. Adicionar as Alterações
 Adicione todas as alterações feitas no projeto ao staging area com o comando:
